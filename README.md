@@ -8,4 +8,4 @@ Features:
   <li>forbid/allow resources using JWT</li>
 </ul>
 <br>
-<a href="https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens">Tutorial</a>
+This <a href="https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens">tutorial</a> was used.
